@@ -5,15 +5,6 @@
 
 # Deployed Link: https://park-flex.netlify.app
 
-- Members:  
-
-    * Aditya Maheshbhai Purohit (B00952865) aditya.purohit@dal.ca
-	* Ketul Patel (B00960940) kt390621@dal.ca 	 
-    * Mann Patel (B00951709) mn906219@dal.ca
-    * Shubham Vijaykumar Patel (B00960942) shubham.v.patel@dal.ca
-    * Jay Navinbhai Rana (B00932024) jy834177@dal.ca	
-    * Neel Piyushkumar Patel (B00923803) nl914739@dal.ca
-
 - Features:
 
     1.	Authentication
